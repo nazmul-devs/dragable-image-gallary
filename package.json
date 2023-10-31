@@ -12,7 +12,9 @@
     "@types/react-dom": "^18.2.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.6",
     "react-scripts": "5.0.1",
+    "react-selectable-fast": "^3.4.0",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
