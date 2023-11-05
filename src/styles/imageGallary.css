@@ -106,7 +106,9 @@ img:hover {
 .img-checkbox {
   position: relative;
   cursor: pointer;
+  
 }
+
 
 .img-checkbox input {
   position: absolute;
